@@ -3,7 +3,7 @@
   I want to give my contribution to the scientific advancement, somehow.
 - 🌱 I’m currently learning Data Science and VFX by self-taughness; I'm keen to get any tips from anyone who wants.
 - ⚡ I’m currently looking for an employment in the field of Data Science and AI.
-- 📫 How to reach me: you can send an email to _nikasun37@gmail.com._
+<!--- 📫 How to reach me: you can send an email to _nikasun37@gmail.com._---!>
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: 💞️...---!>
 <!---
