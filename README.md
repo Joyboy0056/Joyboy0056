@@ -1,4 +1,4 @@
-### Mathematician | Data Science & AI Enthusiast | Open Source Contributor
+### Mathematician | AI Enthusiast | Data Scientist Trainee
 
 [![Kaggle_Badge](https://img.shields.io/badge/Projects-gray?logo=kaggle)](https://www.kaggle.com/nikasun)
 [![LinkedIn Badge](https://img.shields.io/badge/-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/edoardo-tesei-52214014b/)
