@@ -1,9 +1,9 @@
-## Mathematician | Data Science & AI Enthusiast | Open Source Contributor
+### Mathematician | Data Science & AI Enthusiast | Open Source Contributor
 
-[![Kaggle_Badge](https://img.shields.io/badge/Kaggle-Profile-orange?logo=kaggle)](https://www.kaggle.com/nikasun)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/edoardo-tesei-52214014b/)
-[![X Badge](https://img.shields.io/badge/X-Follow-blue?logo=x)](https://x.com/Ed_D_dy)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram)](https://www.instagram.com/ed_d_dy_/)
+[![Kaggle_Badge](https://img.shields.io/badge/Projects-gray?logo=kaggle)](https://www.kaggle.com/nikasun)
+[![LinkedIn Badge](https://img.shields.io/badge/-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/edoardo-tesei-52214014b/)
+[![X Badge](https://img.shields.io/badge/Follow-black?logo=x)](https://x.com/Ed_D_dy)
+[![Instagram Badge](https://img.shields.io/badge/-Follow-orange?logo=instagram)](https://www.instagram.com/ed_d_dy_/)
 
 
 ---
