@@ -10,8 +10,8 @@
 
 - 👀 I’m interested in Science, especially in Mathematics, Physics, AI, Neuroscience and Computer Graphics.
   I want to give my contribution to the scientific advancement, somehow.
-- 🌱 I’m currently learning Data Science and VFX by self-taughness; I'm keen to get any tips from anyone who wants.
-- ⚡ I’m currently looking for an employment in the field of Data Science and AI.
+- 🌱 I’m currently learning Data Science and VFX by self taughness; I'm keen to get any tips from anyone who wants.
+- ⚡ I’m currently training to deserve an opportunity to get in the in the world of Data Science and AI as a professional Data Scientist.
 <!--- 📫 How to reach me: you can send an email to _nikasun37@gmail.com._---!>
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: 💞️...---!>
