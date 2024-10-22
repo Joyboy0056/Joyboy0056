@@ -25,6 +25,4 @@ You can click the Preview link to take a look at your changes.
   
 **_«Fantasy will take the power down and a laugh will bury us»_**
 
-🏴‍☠️ <sub>Kamusari</sub>
-
 </div>
